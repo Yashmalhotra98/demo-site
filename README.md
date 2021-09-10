@@ -4,7 +4,7 @@ A demo website to showcase student's portfolio
 
 Hello!
 
-I'm Yash Malhotra.
+I'm Yash Malhotra Malhotra.
 
 I work as a Data Engineer & I'm trying to learn full stack development in Javascript to make some awesome projects.
 
