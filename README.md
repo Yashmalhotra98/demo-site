@@ -16,4 +16,6 @@ For now, I know:
 
 This is my personal Portfolio in making.
 
+I Graduated from BIT Mesra in 2021 & Working as a Data Engineer in Cognizant since then.
+
 Thanks for Stopping by.
